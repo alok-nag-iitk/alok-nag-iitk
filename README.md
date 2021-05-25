@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alok Nag.
 - 👀 I’m an aspirirng data analyst with experience in SQL, Excel and Python for data analysis.
-- 🌱 I’m currently learning Tableau for data visualization.
+- 🌱 I’m currently learning data visualization using Tableau and Power BI. 
 - 📫 You can reach me through e-mail at alok.nag@outlook.com
 
 <!---
