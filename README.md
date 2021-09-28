@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alok Nag.
-- 👀 I’m an aspiring data analyst with experience in SQL, Excel and Python for data analysis.
+- 👀 I work as an Analytics Consultant at EXL Service. I have hand-On experience in data analysis with tools SQL, Excel and Python. 
 - 🌱 I’m currently learning data visualization using Tableau and Power BI. 
 - 📫 You can reach me through e-mail at alok.nag@outlook.com
 
